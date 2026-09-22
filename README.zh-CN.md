@@ -343,6 +343,7 @@
   - 平台：电脑和手机浏览器；中文界面，键盘或触控操作。免费，无需安装或强制登录；B站 Toy 托管。单人，本机保存最快成绩。
   - GPT-6 Astra：[作者开发记录](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/DEVELOPMENT.md) — 在 Codex 中迭代完成玩法设计、React/Canvas 实现、碰撞与视野检测、巡逻、三关流程和测试；美术使用独立图像生成工具，不是一次提示生成。
   - 开发资料：[源码与运行说明](https://github.com/Ryan-fm/clockout-unseen) · [需求提示词摘录](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/DEVELOPMENT.md) · 技术：React、Vite、Canvas 2D、Web Audio。
+  - 源码更新：[V2 更新说明](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/V2%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E.md) — 三张独立的 3000 × 2000 地图、随机导航巡逻、普通 / 变态 / 地狱模式、跟随镜头与小地图；地狱模式每关两层，每层六名巡查。V2 当前仅更新源码，尚待部署；名称链接和下方截图仍对应线上 V1。
   - 预览：![2026-09-22 截取的三关正式版：玩家躲在办公桌后，主管黄色巡逻视野、文件夹拾取点与电梯出口清晰可见。](https://raw.githubusercontent.com/Ryan-fm/clockout-unseen/main/docs/gameplay.jpg)
 
 ### 解谜与益智
