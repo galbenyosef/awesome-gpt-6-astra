@@ -343,6 +343,7 @@ Shooters, fighters, survival games, rhythm games, and anything that invites one 
   - Platform: Desktop and mobile browsers; Chinese UI, keyboard or touch controls. Free, no installation or mandatory sign-in; hosted on Bilibili Toy. Single-player with local best times.
   - GPT-6 Astra: [Creator's development record](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/DEVELOPMENT.md) — Iterative gameplay design, React/Canvas implementation, collision and sightline logic, patrols, three-level progression and tests in Codex. Artwork was produced with a separate image-generation tool; not a one-shot build.
   - Resources: [Source and setup](https://github.com/Ryan-fm/clockout-unseen) · [Selected prompts](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/DEVELOPMENT.md) · Built with: React, Vite, Canvas 2D and Web Audio.
+  - Source update: [V2 notes](https://github.com/Ryan-fm/clockout-unseen/blob/main/docs/V2%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E.md) — Three distinct 3000 × 2000 maps, randomized patrol navigation, Normal / Extreme / Hell modes, a following camera and minimap; Hell uses two floors per stage with six patrol staff per floor. V2 is available in source only; the linked Toy demo and preview below remain V1 pending deployment.
   - Preview: ![Published three-level version, captured 2026-09-22: the player behind office desks, yellow patrol sight cones, a folder pickup and the elevator exit.](https://raw.githubusercontent.com/Ryan-fm/clockout-unseen/main/docs/gameplay.jpg)
 
 ### Puzzles & brain games
